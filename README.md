@@ -1,2 +1,5 @@
-# fanlj-2023.github.io
-my blog is here!
+MY BLOG IS HERE!
+START UP:
+```
+npx @11ty/eleventy --serve
+```
